@@ -34,11 +34,10 @@ There are **5 iterations** (plus a setup step). Each iteration implements one CR
 | 4 | Get a single book | `GET` | `controllers/bookControllers.js` |
 | 5 | Update a book | `PUT` | `controllers/bookControllers.js` |
 
-> **Important:** Commit your work after each iteration and push to GitHub.
+> **Important:** Commit your work after each iteration.
 
----
 
-## How You Will Work (Paired)
+<!-- ## How You Will Work (Paired)
 
 You work as **two problem-solvers** — you can both talk, think, and type. This is not strict pair-programming; it is collaborative problem-solving.
 
@@ -60,7 +59,7 @@ After **every** iteration, before moving on:
 - Partner B points to the exact file and line.
 - Both test the endpoint with a REST client (VS Code REST Client, Postman, or curl).
 
-If you cannot explain it, do not move on yet.
+If you cannot explain it, do not move on yet. -->
 
 ### Commit Messages (Best Practice)
 
@@ -111,7 +110,7 @@ Here is the API you are building.
 
 ### Iteration 0: Setup
 
-1. Clone the starter repository into a separate folder.
+1. Clone [the starter repository](https://github.com/tx00-resources-en/w5-exam-practice-backend) into a separate folder.
    - After cloning, **delete** the `.git` directory so you can start your own Git history (`git init`).
 
 2. **Prepare the environment:**
